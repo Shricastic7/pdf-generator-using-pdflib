@@ -1,4 +1,4 @@
-# React Certificate Generator
+# Pdf Generator using pdf-lib
 
 This is a simple web application built with React and pdf-lib that allows users to generate certificates of completion by entering student details such as name, PRN (Personal Registration Number), course name, and completion date.
 

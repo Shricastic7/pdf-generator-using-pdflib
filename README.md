@@ -25,14 +25,14 @@ This is a simple web application built with React and pdf-lib that allows users 
    cd pdf-generator-using-pdflib
 
 3. **Install Dependencies** 
-  ```bash
-  npm install 
+     ```bash
+     npm install 
 
 ## Usage
 
 1. **Start the developement server:**
-  ```bash
-  npm start
+     ```bash
+     npm start
 
 2. **Open your web browser and go to http://localhost:3000**
 
